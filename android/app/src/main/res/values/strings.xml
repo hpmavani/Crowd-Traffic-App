@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">modern-app</string>
+    <string name="title_activity_main">modern-app</string>
+    <string name="package_name">io.ionic.rubusy</string>
+    <string name="custom_url_scheme">com.rubusy</string>
+     <string name="com_auth0_domain">dev-v8thclutglmzernx.us.auth0.com</string>
+    <string name="com_auth0_client_id">4rF5ViTuMi4c0aGAR86lSK8sDDIbv904</string>
+ 
+</resources>

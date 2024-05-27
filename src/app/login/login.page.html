@@ -1,0 +1,8 @@
+<ion-card>
+  <ng-container *ngIf="userService.isAuthenticated$ | async; else unAuthenticated">
+    <ion-button (click) = "logout()">Logout</ion-button>
+  </ng-container>
+  <ng-template #unAuthenticated>
+    <ion-button (click) = "login()">Login</ion-button>
+  </ng-template>
+</ion-card>

@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "io.ionic.rubusy",
+                 "sha256_cert_fingerprints": ["86:7F:00:F3:AD:0B:A1:70:86:D6:44:A2:EA:2C:D0:65:8F:D4:16:DA:6F:5E:9C:E1:FA:80:AF:8A:6D:4B:A7:29"] }
+  }]
